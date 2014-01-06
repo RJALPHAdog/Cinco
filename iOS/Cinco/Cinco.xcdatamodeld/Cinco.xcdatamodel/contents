@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13B42" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CincoModules" representedClassName="CincoModules" syncable="YES">
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="notes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="CincoNotes" inverseName="modules" inverseEntity="CincoNotes" syncable="YES"/>
+    </entity>
+    <entity name="CincoNotes" representedClassName="CincoNotes" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="modules" maxCount="1" deletionRule="Nullify" destinationEntity="CincoModules" inverseName="notes" inverseEntity="CincoModules" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CincoModules" positionX="160" positionY="192" width="101" height="73"/>
+        <element name="CincoNotes" positionX="459" positionY="180" width="126" height="88"/>
+    </elements>
+</model>

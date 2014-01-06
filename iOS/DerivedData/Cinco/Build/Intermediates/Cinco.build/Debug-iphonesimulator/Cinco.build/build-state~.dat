@@ -1,0 +1,622 @@
+TCinco
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco.xcdatamodeld
+cProcessPCH /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.pch Cinco/Cinco-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco normal x86_64
+cCpResource Cinco/default4.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png
+cCopyStringsFile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/en.lproj/InfoPlist.strings Cinco/en.lproj/InfoPlist.strings
+cCpResource Cinco/covlogo80.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.png
+cCpResource Cinco/default35.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png
+cCpResource Cinco/covlogo120.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.png
+cCpResource Cinco/covlogo58.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png
+cCompileStoryboard /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/iPhoneStoryboard.storyboard
+cCompileAssetCatalog /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Images.xcassets
+cProcessInfoPlistFile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Info.plist /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Info.plist
+cGenerateDSYMFile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco
+cTouch /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000527843D500000000006C6DC0
+t1383613397
+s7105984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843D50000000000445870
+t1383613397
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843D8000000000088C680
+t1383613400
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843DD0000000001DB9910
+t1383613405
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Info.plist
+c0000000052C6CA2300000000000004F2
+t1388759587
+s1266
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Prefix.pch
+c0000000052C5B34B000000000000017A
+t1388688203
+s378
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco.xcdatamodeld
+c0000000052C5B34B0000000000000088
+t1388688203
+s136
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Images.xcassets
+c0000000052C5E88A0000000000000088
+t1388701834
+s136
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m
+c0000000052C6D3220000000000000AF0
+t1388761890
+s2800
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m
+c0000000052C5D2D60000000000001ACC
+t1388696278
+s6860
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m
+c0000000052C8A8CA0000000000000932
+t1388882122
+s2354
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m
+c0000000052C8A8CA0000000000000D78
+t1388882122
+s3448
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m
+c0000000052C6DBF10000000000000AC1
+t1388764145
+s2753
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m
+c0000000052C8A8CA0000000000000E1D
+t1388882122
+s3613
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/covlogo120.png
+c0000000052C5E28E0000000000002A24
+t1388700302
+s10788
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/covlogo58.png
+c0000000052C5E2DD000000000000168D
+t1388700381
+s5773
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/covlogo80.png
+c0000000052C5E2B70000000000001D54
+t1388700343
+s7508
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/default35.png
+c0000000052C5E871000000000000DF4F
+t1388701809
+s57167
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/default4.png
+c0000000052C5E83D000000000000E35D
+t1388701757
+s58205
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/en.lproj/InfoPlist.strings
+c0000000052C5B34B000000000000002D
+t1388688203
+s45
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/iPhoneStoryboard.storyboard
+c0000000052C8A8CA0000000000005241
+t1388882122
+s21057
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m
+c0000000052C5B34B0000000000000158
+t1388688203
+s344
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/Cinco.LinkFileList
+c0000000052C8A8CA0000000000000489
+t1388882122
+s1161
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o
+t1388882124
+s71428
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o
+t1388882124
+s86808
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o
+t1388882124
+s62088
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o
+t1388882124
+s74656
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o
+t1388882124
+s65588
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o
+t1388882124
+s77332
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o
+t1388882124
+s3880
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/assetcatalog_dependencies.txt
+t1388882125
+s902
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/assetcatalog_generated_info.plist
+t1388882125
+s1063
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.pch
+t1388882123
+s109152
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app
+t1388882126
+s646
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM
+t2
+s0
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco
+t1388882124
+s81744
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd
+t1388882123
+s170
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Info.plist
+t1388882126
+s1232
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/PkgInfo
+t1388882126
+s8
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.png
+t1388882124
+s10788
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png
+t1388882124
+s5773
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.png
+t1388882124
+s7508
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png
+t1388882124
+s57167
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png
+t1388882124
+s58205
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/en.lproj/InfoPlist.strings
+t1388882124
+s42
+
+N/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/iPhoneStoryboard.storyboardc
+t1388882126
+s442
+
+CBuild AST from /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m
+r0
+
+CBuild AST from /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m
+r0
+
+CBuild AST from /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m
+r0
+
+CBuild AST from /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m
+r0
+
+CBuild AST from /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m
+r0
+
+CBuild AST from /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m
+r0
+
+CBuild AST from /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6b83b74ae078b841^7041d24ae078b841^---0#1#1#--18"Check dependencies36"0F3996A3-E235-4E2B-958E-C0EBBC6917EE-
+
+CCompileAssetCatalog /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Images.xcassets
+s410574924.279266
+e410574925.429853
+r1
+xCompileAssetCatalog
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/AppIcon29x29@2x.png
+o/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/AppIcon40x40@2x.png
+o/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/AppIcon60x60@2x.png
+o/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/LaunchImage-700@2x.png
+o/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/LaunchImage-700-568h@2x.png
+o/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Assets.car
+o/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"CompileAssetCatalog DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app Cinco/Images.xcassets106"CompileAssetCatalog DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app Cinco/Images.xcassets2f89474ce078b841^fa0a6e4de078b841^-926"/* com.apple.actool.compilation-results *//Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/AppIcon29x29@2x.png/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/AppIcon40x40@2x.png/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/AppIcon60x60@2x.png/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/LaunchImage-700@2x.png/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/LaunchImage-700-568h@2x.png/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Assets.car/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@65"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Images.xcassets/0000000000000000^1179"CompileAssetCatalog DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app Cinco/Images.xcassets    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Images.xcassets36"35E81AC6-E2A0-4FBA-B8D2-0FB3FD5CEF2C-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574923.984764
+e410574924.066571
+r1
+xCompileC
+xDerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Colours.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m248"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o Cinco/RJCAddModuleViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler543afc4be078b841^effe104ce078b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m0000000000000000^3878"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o Cinco/RJCAddModuleViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -include /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.d --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.dia -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.m -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o36"233E3F6E-2375-4D21-9113-72D8D9A64734-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574923.983287
+e410574924.067950
+r1
+xCompileC
+xDerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m224"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o Cinco/RJCAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbcc9fb4be078b841^e465114ce078b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m0000000000000000^3806"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o Cinco/RJCAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -include /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.d --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.dia -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.m -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o36"69F459C0-4AB2-4DB7-8C01-2E77F7118B49-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574923.982773
+e410574924.068039
+r1
+xCompileC
+xDerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Colours.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m246"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o Cinco/RJCEditNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0bb4fb4be078b841^1a6d114ce078b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m0000000000000000^3872"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o Cinco/RJCEditNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -include /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.d --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.dia -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.m -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o36"61CEC94F-CAD9-459A-87BC-F2A278FC0EA2-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574923.983549
+e410574924.072050
+r1
+xCompileC
+xDerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Colours.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAddModuleViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m248"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o Cinco/RJCMainTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7edfb4be078b841^7572124ce078b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m0000000000000000^3878"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o Cinco/RJCMainTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -include /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.d --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.dia -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCMainTableViewController.m -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o36"3F2CCED4-0DCF-49FF-8DCD-7649D558F088-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574923.983092
+e410574924.069452
+r1
+xCompileC
+xDerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Colours.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m244"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o Cinco/RJCNewNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler55befb4be078b841^54c8114ce078b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m0000000000000000^3866"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o Cinco/RJCNewNoteViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -include /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.d --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.dia -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.m -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o36"E39E3640-081D-45CD-8927-23C646AC563E-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574923.983861
+e410574924.072072
+r1
+xCompileC
+xDerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNewNoteViewController.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Colours.h
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCEditNoteViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m250"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o Cinco/RJCNotesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera9f8fb4be078b841^b876124ce078b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m0000000000000000^3884"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o Cinco/RJCNotesTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -include /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.d --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.dia -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCNotesTableViewController.m -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o36"F3DF3B9E-140C-4F28-8FCA-23DE0980589C-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574923.984315
+e410574924.037127
+r1
+xCompileC
+xDerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/RJCAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m204"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o Cinco/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d19fc4be078b841^4981094ce078b841^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m0000000000000000^3746"CompileC DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o Cinco/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -include /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.dia -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/main.m -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o36"2674A556-B821-45DC-AE62-A75523B896E8-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCompileStoryboard /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/iPhoneStoryboard.storyboard
+s410574924.278630
+e410574926.823943
+r1
+xCompileStoryboard
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/iPhoneStoryboard.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"CompileStoryboard Cinco/iPhoneStoryboard.storyboard51"CompileStoryboard Cinco/iPhoneStoryboard.storyboard3c67474ce078b841^42eed24ee078b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/iPhoneStoryboard.storyboard0000000000000000^845"CompileStoryboard Cinco/iPhoneStoryboard.storyboard    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/iPhoneStoryboard.storyboardc /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/iPhoneStoryboard.storyboard36"D1978193-E75E-4204-BD4B-4BB5B3995E76-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCopyStringsFile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/en.lproj/InfoPlist.strings Cinco/en.lproj/InfoPlist.strings
+s410574924.277452
+e410574924.280928
+r1
+xCopyStringsFile
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/en.lproj/InfoPlist.strings
+xCinco/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Cinco/en.lproj/InfoPlist.strings140"CopyStringsFile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/en.lproj/InfoPlist.strings Cinco/en.lproj/InfoPlist.stringsa720474ce078b841^3df2474ce078b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/en.lproj/InfoPlist.strings0000000000000000^615"CopyStringsFile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/en.lproj/InfoPlist.strings Cinco/en.lproj/InfoPlist.strings    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/en.lproj -- Cinco/en.lproj/InfoPlist.strings36"AA7F41AD-7A67-4B13-8196-C3DE6E3381F4-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCpResource Cinco/covlogo120.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.png
+s410574924.278091
+e410574924.280598
+r1
+xCpResource
+xCinco/covlogo120.png
+xDerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.png111"CpResource Cinco/covlogo120.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.pngf644474ce078b841^edd5474ce078b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.png0034746cdfffdf42^620"CpResource Cinco/covlogo120.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo120.png    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/covlogo120.png /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app36"6078E87D-15FD-4E78-9299-5EF6B90E5A42-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCpResource Cinco/covlogo58.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png
+s410574924.278341
+e410574924.280774
+r1
+xCpResource
+xCinco/covlogo58.png
+xDerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png109"CpResource Cinco/covlogo58.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png3751474ce078b841^d2df474ce078b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png0034746cdfffdf42^617"CpResource Cinco/covlogo58.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo58.png    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/covlogo58.png /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app36"9022AB6C-4133-49D6-9B84-34C150152D6B-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCpResource Cinco/covlogo80.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.png
+s410574924.277641
+e410574924.280847
+r1
+xCpResource
+xCinco/covlogo80.png
+xDerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.png109"CpResource Cinco/covlogo80.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.pngef1f474ce078b841^63ed474ce078b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.png0034746cdfffdf42^617"CpResource Cinco/covlogo80.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/covlogo80.png    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/covlogo80.png /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app36"8CC8EEFC-4019-4933-B132-D1E49933C929-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCpResource Cinco/default35.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png
+s410574924.277854
+e410574924.281367
+r1
+xCpResource
+xCinco/default35.png
+xDerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png109"CpResource Cinco/default35.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png6e35474ce078b841^5308484ce078b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png0034746cdfffdf42^617"CpResource Cinco/default35.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default35.png    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/default35.png /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app36"A1684983-056C-4D9B-B18E-B7079BAD8261-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CCpResource Cinco/default4.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png
+s410574924.277337
+e410574924.281229
+r1
+xCpResource
+xCinco/default4.png
+xDerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png107"CpResource Cinco/default4.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png3a1e474ce078b841^26ff474ce078b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png0034746cdfffdf42^614"CpResource Cinco/default4.png DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/default4.png    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/default4.png /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app36"CD1A33B4-50DF-42CD-910C-356B61FA0C68-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CDataModelVersionCompile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco.xcdatamodeld
+s410574922.822029
+e410574923.299486
+r1
+xDataModelVersionCompile
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"DataModelVersionCompile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd Cinco/Cinco.xcdatamodeld124"DataModelVersionCompile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd Cinco/Cinco.xcdatamodeld0e82d24ae078b841^b4ab4c4be078b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco.xcdatamodeld/0000000000000000^892"DataModelVersionCompile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd Cinco/Cinco.xcdatamodeld    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco.xcdatamodeld /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco.momd36"ECD5FE8C-B617-441E-953D-DB71A22AB736-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CGenerateDSYMFile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco
+s410574926.826947
+e410574926.849121
+r1
+xGenerateDSYMFile
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM157"GenerateDSYMFile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cincoe0bdd34ee078b841^0b61d94ee078b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM0034746cdfffdf42^712"GenerateDSYMFile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app.dSYM36"DF7298F4-B1A3-4728-B82F-42A4BFD5D561-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CLd /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco normal x86_64
+s410574924.072920
+e410574924.276554
+r1
+xLd
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco
+xnormal
+xx86_64
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/Cinco.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCEditNoteViewController.o
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNewNoteViewController.o
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAppDelegate.o
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCMainTableViewController.o
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCNotesTableViewController.o
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/main.o
+d/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/RJCAddModuleViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco87"Ld DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco normal x86_64f5b9124ce078b841^d1cd464ce078b841^---0#0#1#--1487"Ld DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco normal x86_64    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator -filelist /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/Cinco.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Objects-normal/x86_64/Cinco_dependency_info.dat -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Cinco36"5DB54356-AF9D-4795-B2B4-B687831C54CD-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CProcessInfoPlistFile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Info.plist /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Info.plist
+s410574926.824623
+e410574926.826596
+r1
+xProcessInfoPlistFile
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Info.plist
+x/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Process /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Info.plist119"ProcessInfoPlistFile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Info.plist Cinco/Cinco-Info.plist172ad34ee078b841^fe9bd34ee078b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Info.plist0000000000000000^921"ProcessInfoPlistFile DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Info.plist Cinco/Cinco-Info.plist    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Info.plist -genpkginfo /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/assetcatalog_generated_info.plist -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app/Info.plist36"90607AF7-18DE-4286-9BD6-9BEDA769E314-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CProcessPCH /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.pch Cinco/Cinco-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s410574922.822362
+e410574923.982074
+r1
+xProcessPCH
+x/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.pch
+xCinco/Cinco-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Cinco/Cinco-Prefix.pch223"ProcessPCH DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.pch Cinco/Cinco-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a98d24ae078b841^3c6bfb4be078b841^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Prefix.pch0000000000000000^3638"ProcessPCH DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.pch Cinco/Cinco-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/rjalphadog/Desktop/iOS/Cinco    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-generated-files.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-own-target-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-all-target-headers.hmap -iquote /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/Cinco-project-headers.hmap -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources/x86_64 -I/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/Cinco.build/Debug-iphonesimulator/Cinco.build/DerivedSources -F/Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.dia -MMD -MT dependencies -MF /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.d -c /Users/rjalphadog/Desktop/iOS/Cinco/Cinco/Cinco-Prefix.pch -o /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Intermediates/PrecompiledHeaders/Cinco-Prefix-arhcfjuntcanpcgzhxewxgfnvuaa/Cinco-Prefix.pch.pch36"29394676-C063-4A90-87BD-1E89DD2688CA-
+bC2AF305B-0F7E-4561-B2CD-A14789C94A9C
+
+CProcessPCH /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Index/PrecompiledHeaders/Cinco-Prefix-eugydqfvshaznrbuuvfjleqyuyig_ast/Cinco-Prefix.pch.pch Cinco/Cinco-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/rjalphadog/Desktop/iOS/Cinco/DerivedData/Cinco/Build/Products/Debug-iphonesimulator/Cinco.app
+r0
+

@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9D6BDF6C1879E547009BF96B /* CincoModules.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6BDF6B1879E547009BF96B /* CincoModules.m */; };
+		9D6BDF6F1879E547009BF96B /* CincoNotes.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D6BDF6E1879E547009BF96B /* CincoNotes.m */; };
+		9D7B594918770E9A00EEB0BF /* RJCNotesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D7B594818770E9A00EEB0BF /* RJCNotesTableViewController.m */; };
+		9D7B594C187711A500EEB0BF /* RJCNewNoteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D7B594B187711A500EEB0BF /* RJCNewNoteViewController.m */; };
+		9D7B595218772E7900EEB0BF /* RJCEditNoteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D7B595118772E7900EEB0BF /* RJCEditNoteViewController.m */; };
+		9DD5C0821875EACB001C2A79 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C0811875EACB001C2A79 /* Foundation.framework */; };
+		9DD5C0841875EACB001C2A79 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C0831875EACB001C2A79 /* CoreGraphics.framework */; };
+		9DD5C0861875EACB001C2A79 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C0851875EACB001C2A79 /* UIKit.framework */; };
+		9DD5C0881875EACB001C2A79 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C0871875EACB001C2A79 /* CoreData.framework */; };
+		9DD5C08E1875EACB001C2A79 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C08C1875EACB001C2A79 /* InfoPlist.strings */; };
+		9DD5C0901875EACB001C2A79 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD5C08F1875EACB001C2A79 /* main.m */; };
+		9DD5C0941875EACB001C2A79 /* RJCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD5C0931875EACB001C2A79 /* RJCAppDelegate.m */; };
+		9DD5C0971875EACB001C2A79 /* Cinco.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9DD5C0951875EACB001C2A79 /* Cinco.xcdatamodeld */; };
+		9DD5C0991875EACB001C2A79 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0981875EACB001C2A79 /* Images.xcassets */; };
+		9DD5C0A01875EACB001C2A79 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C09F1875EACB001C2A79 /* XCTest.framework */; };
+		9DD5C0A11875EACB001C2A79 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C0811875EACB001C2A79 /* Foundation.framework */; };
+		9DD5C0A21875EACB001C2A79 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C0851875EACB001C2A79 /* UIKit.framework */; };
+		9DD5C0A31875EACB001C2A79 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DD5C0871875EACB001C2A79 /* CoreData.framework */; };
+		9DD5C0AB1875EACB001C2A79 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0A91875EACB001C2A79 /* InfoPlist.strings */; };
+		9DD5C0AD1875EACB001C2A79 /* CincoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD5C0AC1875EACB001C2A79 /* CincoTests.m */; };
+		9DD5C0B71875EAF8001C2A79 /* iPhoneStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0B61875EAF8001C2A79 /* iPhoneStoryboard.storyboard */; };
+		9DD5C0BA187608EB001C2A79 /* RJCMainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD5C0B9187608EB001C2A79 /* RJCMainTableViewController.m */; };
+		9DD5C0BF18761A75001C2A79 /* covlogo80.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0BC18761A75001C2A79 /* covlogo80.png */; };
+		9DD5C0C018761A75001C2A79 /* covlogo58.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0BD18761A75001C2A79 /* covlogo58.png */; };
+		9DD5C0C118761A75001C2A79 /* covlogo120.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0BE18761A75001C2A79 /* covlogo120.png */; };
+		9DD5C0C418762003001C2A79 /* default35.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0C218762003001C2A79 /* default35.png */; };
+		9DD5C0C518762003001C2A79 /* default4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD5C0C318762003001C2A79 /* default4.png */; };
+		9DD5C0C8187636F0001C2A79 /* RJCAddModuleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DD5C0C7187636F0001C2A79 /* RJCAddModuleViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9DD5C0A41875EACB001C2A79 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9DD5C0761875EACB001C2A79 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9DD5C07D1875EACB001C2A79;
+			remoteInfo = Cinco;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9D6BDF6A1879E547009BF96B /* CincoModules.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CincoModules.h; sourceTree = SOURCE_ROOT; };
+		9D6BDF6B1879E547009BF96B /* CincoModules.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CincoModules.m; sourceTree = SOURCE_ROOT; };
+		9D6BDF6D1879E547009BF96B /* CincoNotes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CincoNotes.h; sourceTree = SOURCE_ROOT; };
+		9D6BDF6E1879E547009BF96B /* CincoNotes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CincoNotes.m; sourceTree = SOURCE_ROOT; };
+		9D7B594718770E9A00EEB0BF /* RJCNotesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJCNotesTableViewController.h; sourceTree = "<group>"; };
+		9D7B594818770E9A00EEB0BF /* RJCNotesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJCNotesTableViewController.m; sourceTree = "<group>"; };
+		9D7B594A187711A500EEB0BF /* RJCNewNoteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJCNewNoteViewController.h; sourceTree = "<group>"; };
+		9D7B594B187711A500EEB0BF /* RJCNewNoteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJCNewNoteViewController.m; sourceTree = "<group>"; };
+		9D7B595018772E7900EEB0BF /* RJCEditNoteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJCEditNoteViewController.h; sourceTree = "<group>"; };
+		9D7B595118772E7900EEB0BF /* RJCEditNoteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJCEditNoteViewController.m; sourceTree = "<group>"; };
+		9DD5C07E1875EACB001C2A79 /* Cinco.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cinco.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DD5C0811875EACB001C2A79 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9DD5C0831875EACB001C2A79 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9DD5C0851875EACB001C2A79 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		9DD5C0871875EACB001C2A79 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		9DD5C08B1875EACB001C2A79 /* Cinco-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Cinco-Info.plist"; sourceTree = "<group>"; };
+		9DD5C08D1875EACB001C2A79 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9DD5C08F1875EACB001C2A79 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9DD5C0911875EACB001C2A79 /* Cinco-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Cinco-Prefix.pch"; sourceTree = "<group>"; };
+		9DD5C0921875EACB001C2A79 /* RJCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RJCAppDelegate.h; sourceTree = "<group>"; };
+		9DD5C0931875EACB001C2A79 /* RJCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RJCAppDelegate.m; sourceTree = "<group>"; };
+		9DD5C0961875EACB001C2A79 /* Cinco.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Cinco.xcdatamodel; sourceTree = "<group>"; };
+		9DD5C0981875EACB001C2A79 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9DD5C09E1875EACB001C2A79 /* CincoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CincoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DD5C09F1875EACB001C2A79 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		9DD5C0A81875EACB001C2A79 /* CincoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CincoTests-Info.plist"; sourceTree = "<group>"; };
+		9DD5C0AA1875EACB001C2A79 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9DD5C0AC1875EACB001C2A79 /* CincoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CincoTests.m; sourceTree = "<group>"; };
+		9DD5C0B61875EAF8001C2A79 /* iPhoneStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iPhoneStoryboard.storyboard; sourceTree = "<group>"; };
+		9DD5C0B8187608EB001C2A79 /* RJCMainTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJCMainTableViewController.h; sourceTree = "<group>"; };
+		9DD5C0B9187608EB001C2A79 /* RJCMainTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJCMainTableViewController.m; sourceTree = "<group>"; };
+		9DD5C0BB1876100F001C2A79 /* Colours.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Colours.h; sourceTree = "<group>"; };
+		9DD5C0BC18761A75001C2A79 /* covlogo80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = covlogo80.png; sourceTree = "<group>"; };
+		9DD5C0BD18761A75001C2A79 /* covlogo58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = covlogo58.png; sourceTree = "<group>"; };
+		9DD5C0BE18761A75001C2A79 /* covlogo120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = covlogo120.png; sourceTree = "<group>"; };
+		9DD5C0C218762003001C2A79 /* default35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default35.png; sourceTree = "<group>"; };
+		9DD5C0C318762003001C2A79 /* default4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = default4.png; sourceTree = "<group>"; };
+		9DD5C0C6187636F0001C2A79 /* RJCAddModuleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RJCAddModuleViewController.h; sourceTree = "<group>"; };
+		9DD5C0C7187636F0001C2A79 /* RJCAddModuleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RJCAddModuleViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9DD5C07B1875EACB001C2A79 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DD5C0841875EACB001C2A79 /* CoreGraphics.framework in Frameworks */,
+				9DD5C0881875EACB001C2A79 /* CoreData.framework in Frameworks */,
+				9DD5C0861875EACB001C2A79 /* UIKit.framework in Frameworks */,
+				9DD5C0821875EACB001C2A79 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DD5C09B1875EACB001C2A79 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DD5C0A01875EACB001C2A79 /* XCTest.framework in Frameworks */,
+				9DD5C0A31875EACB001C2A79 /* CoreData.framework in Frameworks */,
+				9DD5C0A21875EACB001C2A79 /* UIKit.framework in Frameworks */,
+				9DD5C0A11875EACB001C2A79 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9D6BDF701879E55F009BF96B /* Core Data */ = {
+			isa = PBXGroup;
+			children = (
+				9DD5C0951875EACB001C2A79 /* Cinco.xcdatamodeld */,
+				9D6BDF6D1879E547009BF96B /* CincoNotes.h */,
+				9D6BDF6E1879E547009BF96B /* CincoNotes.m */,
+				9D6BDF6A1879E547009BF96B /* CincoModules.h */,
+				9D6BDF6B1879E547009BF96B /* CincoModules.m */,
+			);
+			name = "Core Data";
+			sourceTree = "<group>";
+		};
+		9DD5C0751875EACB001C2A79 = {
+			isa = PBXGroup;
+			children = (
+				9DD5C0891875EACB001C2A79 /* Cinco */,
+				9DD5C0A61875EACB001C2A79 /* CincoTests */,
+				9DD5C0801875EACB001C2A79 /* Frameworks */,
+				9DD5C07F1875EACB001C2A79 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9DD5C07F1875EACB001C2A79 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9DD5C07E1875EACB001C2A79 /* Cinco.app */,
+				9DD5C09E1875EACB001C2A79 /* CincoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9DD5C0801875EACB001C2A79 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9DD5C0811875EACB001C2A79 /* Foundation.framework */,
+				9DD5C0831875EACB001C2A79 /* CoreGraphics.framework */,
+				9DD5C0851875EACB001C2A79 /* UIKit.framework */,
+				9DD5C0871875EACB001C2A79 /* CoreData.framework */,
+				9DD5C09F1875EACB001C2A79 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9DD5C0891875EACB001C2A79 /* Cinco */ = {
+			isa = PBXGroup;
+			children = (
+				9DD5C0921875EACB001C2A79 /* RJCAppDelegate.h */,
+				9DD5C0931875EACB001C2A79 /* RJCAppDelegate.m */,
+				9DD5C0981875EACB001C2A79 /* Images.xcassets */,
+				9D6BDF701879E55F009BF96B /* Core Data */,
+				9DD5C08A1875EACB001C2A79 /* Supporting Files */,
+				9DD5C0B61875EAF8001C2A79 /* iPhoneStoryboard.storyboard */,
+				9DD5C0B8187608EB001C2A79 /* RJCMainTableViewController.h */,
+				9DD5C0B9187608EB001C2A79 /* RJCMainTableViewController.m */,
+				9DD5C0BB1876100F001C2A79 /* Colours.h */,
+				9DD5C0C6187636F0001C2A79 /* RJCAddModuleViewController.h */,
+				9DD5C0C7187636F0001C2A79 /* RJCAddModuleViewController.m */,
+				9D7B594718770E9A00EEB0BF /* RJCNotesTableViewController.h */,
+				9D7B594818770E9A00EEB0BF /* RJCNotesTableViewController.m */,
+				9D7B594A187711A500EEB0BF /* RJCNewNoteViewController.h */,
+				9D7B594B187711A500EEB0BF /* RJCNewNoteViewController.m */,
+				9D7B595018772E7900EEB0BF /* RJCEditNoteViewController.h */,
+				9D7B595118772E7900EEB0BF /* RJCEditNoteViewController.m */,
+			);
+			path = Cinco;
+			sourceTree = "<group>";
+		};
+		9DD5C08A1875EACB001C2A79 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9DD5C08B1875EACB001C2A79 /* Cinco-Info.plist */,
+				9DD5C0BC18761A75001C2A79 /* covlogo80.png */,
+				9DD5C0BD18761A75001C2A79 /* covlogo58.png */,
+				9DD5C0BE18761A75001C2A79 /* covlogo120.png */,
+				9DD5C0C218762003001C2A79 /* default35.png */,
+				9DD5C0C318762003001C2A79 /* default4.png */,
+				9DD5C08C1875EACB001C2A79 /* InfoPlist.strings */,
+				9DD5C08F1875EACB001C2A79 /* main.m */,
+				9DD5C0911875EACB001C2A79 /* Cinco-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9DD5C0A61875EACB001C2A79 /* CincoTests */ = {
+			isa = PBXGroup;
+			children = (
+				9DD5C0AC1875EACB001C2A79 /* CincoTests.m */,
+				9DD5C0A71875EACB001C2A79 /* Supporting Files */,
+			);
+			path = CincoTests;
+			sourceTree = "<group>";
+		};
+		9DD5C0A71875EACB001C2A79 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				9DD5C0A81875EACB001C2A79 /* CincoTests-Info.plist */,
+				9DD5C0A91875EACB001C2A79 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9DD5C07D1875EACB001C2A79 /* Cinco */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DD5C0B01875EACB001C2A79 /* Build configuration list for PBXNativeTarget "Cinco" */;
+			buildPhases = (
+				9DD5C07A1875EACB001C2A79 /* Sources */,
+				9DD5C07B1875EACB001C2A79 /* Frameworks */,
+				9DD5C07C1875EACB001C2A79 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Cinco;
+			productName = Cinco;
+			productReference = 9DD5C07E1875EACB001C2A79 /* Cinco.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9DD5C09D1875EACB001C2A79 /* CincoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DD5C0B31875EACB001C2A79 /* Build configuration list for PBXNativeTarget "CincoTests" */;
+			buildPhases = (
+				9DD5C09A1875EACB001C2A79 /* Sources */,
+				9DD5C09B1875EACB001C2A79 /* Frameworks */,
+				9DD5C09C1875EACB001C2A79 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9DD5C0A51875EACB001C2A79 /* PBXTargetDependency */,
+			);
+			name = CincoTests;
+			productName = CincoTests;
+			productReference = 9DD5C09E1875EACB001C2A79 /* CincoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9DD5C0761875EACB001C2A79 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = RJC;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Rory Watson";
+				TargetAttributes = {
+					9DD5C07D1875EACB001C2A79 = {
+						DevelopmentTeam = 6XJFZRHBLG;
+					};
+					9DD5C09D1875EACB001C2A79 = {
+						TestTargetID = 9DD5C07D1875EACB001C2A79;
+					};
+				};
+			};
+			buildConfigurationList = 9DD5C0791875EACB001C2A79 /* Build configuration list for PBXProject "Cinco" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9DD5C0751875EACB001C2A79;
+			productRefGroup = 9DD5C07F1875EACB001C2A79 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9DD5C07D1875EACB001C2A79 /* Cinco */,
+				9DD5C09D1875EACB001C2A79 /* CincoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9DD5C07C1875EACB001C2A79 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DD5C0C518762003001C2A79 /* default4.png in Resources */,
+				9DD5C08E1875EACB001C2A79 /* InfoPlist.strings in Resources */,
+				9DD5C0BF18761A75001C2A79 /* covlogo80.png in Resources */,
+				9DD5C0991875EACB001C2A79 /* Images.xcassets in Resources */,
+				9DD5C0C418762003001C2A79 /* default35.png in Resources */,
+				9DD5C0C118761A75001C2A79 /* covlogo120.png in Resources */,
+				9DD5C0C018761A75001C2A79 /* covlogo58.png in Resources */,
+				9DD5C0B71875EAF8001C2A79 /* iPhoneStoryboard.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DD5C09C1875EACB001C2A79 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DD5C0AB1875EACB001C2A79 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9DD5C07A1875EACB001C2A79 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D7B595218772E7900EEB0BF /* RJCEditNoteViewController.m in Sources */,
+				9D7B594C187711A500EEB0BF /* RJCNewNoteViewController.m in Sources */,
+				9DD5C0971875EACB001C2A79 /* Cinco.xcdatamodeld in Sources */,
+				9DD5C0941875EACB001C2A79 /* RJCAppDelegate.m in Sources */,
+				9D6BDF6F1879E547009BF96B /* CincoNotes.m in Sources */,
+				9DD5C0BA187608EB001C2A79 /* RJCMainTableViewController.m in Sources */,
+				9D7B594918770E9A00EEB0BF /* RJCNotesTableViewController.m in Sources */,
+				9DD5C0901875EACB001C2A79 /* main.m in Sources */,
+				9D6BDF6C1879E547009BF96B /* CincoModules.m in Sources */,
+				9DD5C0C8187636F0001C2A79 /* RJCAddModuleViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DD5C09A1875EACB001C2A79 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DD5C0AD1875EACB001C2A79 /* CincoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9DD5C0A51875EACB001C2A79 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9DD5C07D1875EACB001C2A79 /* Cinco */;
+			targetProxy = 9DD5C0A41875EACB001C2A79 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9DD5C08C1875EACB001C2A79 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9DD5C08D1875EACB001C2A79 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		9DD5C0A91875EACB001C2A79 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9DD5C0AA1875EACB001C2A79 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9DD5C0AE1875EACB001C2A79 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		9DD5C0AF1875EACB001C2A79 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9DD5C0B11875EACB001C2A79 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cinco/Cinco-Prefix.pch";
+				INFOPLIST_FILE = "Cinco/Cinco-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		9DD5C0B21875EACB001C2A79 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cinco/Cinco-Prefix.pch";
+				INFOPLIST_FILE = "Cinco/Cinco-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		9DD5C0B41875EACB001C2A79 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Cinco.app/Cinco";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cinco/Cinco-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "CincoTests/CincoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		9DD5C0B51875EACB001C2A79 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Cinco.app/Cinco";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Cinco/Cinco-Prefix.pch";
+				INFOPLIST_FILE = "CincoTests/CincoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9DD5C0791875EACB001C2A79 /* Build configuration list for PBXProject "Cinco" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DD5C0AE1875EACB001C2A79 /* Debug */,
+				9DD5C0AF1875EACB001C2A79 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DD5C0B01875EACB001C2A79 /* Build configuration list for PBXNativeTarget "Cinco" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DD5C0B11875EACB001C2A79 /* Debug */,
+				9DD5C0B21875EACB001C2A79 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DD5C0B31875EACB001C2A79 /* Build configuration list for PBXNativeTarget "CincoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DD5C0B41875EACB001C2A79 /* Debug */,
+				9DD5C0B51875EACB001C2A79 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		9DD5C0951875EACB001C2A79 /* Cinco.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				9DD5C0961875EACB001C2A79 /* Cinco.xcdatamodel */,
+			);
+			currentVersion = 9DD5C0961875EACB001C2A79 /* Cinco.xcdatamodel */;
+			path = Cinco.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 9DD5C0761875EACB001C2A79 /* Project object */;
+}
